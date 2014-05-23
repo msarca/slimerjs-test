@@ -2,9 +2,9 @@ Testare
 
 ```bash
 
-git clone http://gitlab.clx/sarcam/slimerjs.git
+git clone https://github.com/msarca/slimerjs-test.git
 
-cd slimerjs
+cd slimerjs-test
 
 tar -zxvf sdk.tar.gz
 
